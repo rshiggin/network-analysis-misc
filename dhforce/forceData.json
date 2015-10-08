@@ -1,0 +1,1138 @@
+    {
+        "nodes": [{
+        "name": "AISRI",
+        "group": 2
+    },
+    {
+        "name": "Alan Burdette",
+        "group": 5
+    },
+    {
+        "name": "American Studies",
+        "group": 1
+    },
+    {
+        "name": "Andrew Albrecht",
+        "group": 5
+    },
+    {
+        "name": "Andy Uhrich",
+        "group": 5
+    },
+    {
+        "name": "Angela Courtney",
+        "group": 5
+    },
+    {
+        "name": "Anthropology",
+        "group": 1
+    },
+    {
+        "name": "Archives Of Traditional Music",
+        "group": 2
+    },
+    {
+        "name": "Arthur Liou",
+        "group": 5
+    },
+    {
+        "name": "Avalon",
+        "group": 3
+    },
+    {
+        "name": "Bernie Frischer",
+        "group": 5
+    },
+    {
+        "name": "Beth Plale",
+        "group": 5
+    },
+    {
+        "name": "Bill Newman",
+        "group": 5
+    },
+    {
+        "name": "Black Film Center/archive",
+        "group": 2
+    },
+    {
+        "name": "Brad Wheeler",
+        "group": 5
+    },
+    {
+        "name": "Brenda Johnson",
+        "group": 5
+    },
+    {
+        "name": "Cascades, Islands, Or Streams?",
+        "group": 3
+    },
+    {
+        "name": "Cassidy Sugimoto",
+        "group": 5
+    },
+    {
+        "name": "Catapult Center",
+        "group": 2
+    },
+    {
+        "name": "CBML",
+        "group": 3
+    },
+    {
+        "name": "Charles Cushman Photographs",
+        "group": 3
+    },
+    {
+        "name": "Chymistry Of Isaac Newton",
+        "group": 3
+    },
+    {
+        "name": "Clara Henderson",
+        "group": 5
+    },
+    {
+        "name": "CNS",
+        "group": 2
+    },
+    {
+        "name": "CoBRA",
+        "group": 3
+    },
+    {
+        "name": "Colin Allen",
+        "group": 5
+    },
+    {
+        "name": "CyberDH",
+        "group": 2
+    },
+    {
+        "name": "Data to Insight",
+        "group": 2
+    },
+    {
+        "name": "Digital Applications In Archaeology And Cultural Heritage",
+        "group": 3
+    },
+    {
+        "name": "Digital Hadrian's Villa",
+        "group": 3
+    },
+    {
+        "name": "Digital Rhetorics & Digital Humanities",
+        "group": 3
+    },
+    {
+        "name": "Dirk Herr-hoyman",
+        "group": 5
+    },
+    {
+        "name": "Douglas Parks",
+        "group": 5
+    },
+    {
+        "name": "Edward Curtis Iv",
+        "group": 5
+    },
+    {
+        "name": "Ellen Mackay",
+        "group": 5
+    },
+    {
+        "name": "English",
+        "group": 1
+    },
+    {
+        "name": "English Broadside Ballad Archive",
+        "group": 3
+    },
+    {
+        "name": "Eric Wernert",
+        "group": 5
+    },
+    {
+        "name": "Erika Dowell",
+        "group": 5
+    },
+    {
+        "name": "EVIA",
+        "group": 3
+    },
+    {
+        "name": "Femtechnet",
+        "group": 3
+    },
+    {
+        "name": "Fine Arts",
+        "group": 1
+    },
+    {
+        "name": "Folklore And Ethnomusicology",
+        "group": 1
+    },
+    {
+        "name": "French And Italian",
+        "group": 1
+    },
+    {
+        "name": "Glenn Black Lab",
+        "group": 2
+    },
+    {
+        "name": "Grace Thomas",
+        "group": 5
+    },
+    {
+        "name": "Grant Simpson",
+        "group": 5
+    },
+    {
+        "name": "Guiliano Di Bacco",
+        "group": 5
+    },
+    {
+        "name": "H. Wayne Storey",
+        "group": 5
+    },
+    {
+        "name": "HASTAC",
+        "group": 2
+    },
+    {
+        "name": "HILT",
+        "group": 2
+    },
+    {
+        "name": "History",
+        "group": 1
+    },
+    {
+        "name": "Hps",
+        "group": 1
+    },
+    {
+        "name": "HTRC",
+        "group": 2
+    },
+    {
+        "name": "IDAH",
+        "group": 2
+    },
+    {
+        "name": "ILS",
+        "group": 1
+    },
+    {
+        "name": "Informatics",
+        "group": 1
+    },
+    {
+        "name": "InPhO",
+        "group": 3
+    },
+    {
+        "name": "Jaimie Murdock",
+        "group": 5
+    },
+    {
+        "name": "Jason Jackson",
+        "group": 5
+    },
+    {
+        "name": "Jennifer Guiliano",
+        "group": 5
+    },
+    {
+        "name": "John Walsh",
+        "group": 5
+    },
+    {
+        "name": "Jon Dunn",
+        "group": 5
+    },
+    {
+        "name": "Julie Hardesty",
+        "group": 5
+    },
+    {
+        "name": "Justin Hodgson",
+        "group": 5
+    },
+    {
+        "name": "Kalani Craig",
+        "group": 5
+    },
+    {
+        "name": "Katy Borner",
+        "group": 5
+    },
+    {
+        "name": "Konstantin Dierks",
+        "group": 5
+    },
+    {
+        "name": "Laurie Antolivic",
+        "group": 5
+    },
+    {
+        "name": "Liberian Collections",
+        "group": 3
+    },
+    {
+        "name": "Lilly Library",
+        "group": 1
+    },
+    {
+        "name": "Mapping World History",
+        "group": 3
+    },
+    {
+        "name": "Margaret Dolinsky",
+        "group": 5
+    },
+    {
+        "name": "Mathers",
+        "group": 2
+    },
+    {
+        "name": "Matthew Brennan",
+        "group": 5
+    },
+    {
+        "name": "MDPI",
+        "group": 3
+    },
+    {
+        "name": "Media School",
+        "group": 1
+    },
+    {
+        "name": "Meridith Beck Sayre",
+        "group": 5
+    },
+    {
+        "name": "Michael Martin",
+        "group": 5
+    },
+    {
+        "name": "Michelle Dalmau",
+        "group": 5
+    },
+    {
+        "name": "Moving Image Archive",
+        "group": 3
+    },
+    {
+        "name": "Music",
+        "group": 1
+    },
+    {
+        "name": "Muslim American Identities",
+        "group": 3
+    },
+    {
+        "name": "Nick Homeda",
+        "group": 5
+    },
+    {
+        "name": "Norbert Herber",
+        "group": 5
+    },
+    {
+        "name": "Oufinopo",
+        "group": 3
+    },
+    {
+        "name": "Peter Williams",
+        "group": 5
+    },
+    {
+        "name": "Petrarchive",
+        "group": 3
+    },
+    {
+        "name": "Philosophy",
+        "group": 1
+    },
+    {
+        "name": "PTI",
+        "group": 2
+    },
+    {
+        "name": "Rachael Stoeltje",
+        "group": 5
+    },
+    {
+        "name": "Rega Wood",
+        "group": 5
+    },
+    {
+        "name": "Religious Studies",
+        "group": 1
+    },
+    {
+        "name": "Richard Higgins",
+        "group": 5
+    },
+    {
+        "name": "Richard Rufus Project",
+        "group": 3
+    },
+    {
+        "name": "Ron Osgood",
+        "group": 5
+    },
+    {
+        "name": "Ruth Stone",
+        "group": 5
+    },
+    {
+        "name": "Scot Barnett",
+        "group": 5
+    },
+    {
+        "name": "Scott Weingart",
+        "group": 5
+    },
+    {
+        "name": "Stacie King",
+        "group": 5
+    },
+    {
+        "name": "Stasia Milojevic",
+        "group": 5
+    },
+    {
+        "name": "Swinburne Project",
+        "group": 3
+    },
+    {
+        "name": "Tassie Gniady",
+        "group": 5
+    },
+    {
+        "name": "Tei Boilerplate",
+        "group": 3
+    },
+    {
+        "name": "Thesaurus Musicarum Latinarum",
+        "group": 3
+    },
+    {
+        "name": "UITS",
+        "group": 1
+    },
+    {
+        "name": "Variations",
+        "group": 2
+    },
+    {
+        "name": "Verlon Stone",
+        "group": 5
+    },
+    {
+        "name": "Victorian Women Writers Project",
+        "group": 3
+    },
+    {
+        "name": "Vietnam War: Stories From All Sides",
+        "group": 3
+    },
+    {
+        "name": "Vincent Malic",
+        "group": 5
+    },
+    {
+        "name": "VWHL",
+        "group": 2
+    },
+    {
+        "name": "Wally Hooper",
+        "group": 5
+    },
+    {
+        "name": "War Of 1812",
+        "group": 3
+    },
+    {
+        "name": "Wells Library",
+        "group": 1
+    },
+    {
+        "name": "Wikipedia Edit-a-thons",
+        "group": 4
+    },
+    {
+        "name": "Will Cowan",
+        "group": 5
+    },
+    {
+        "name": "Will Emigh",
+        "group": 5
+    },
+    {
+        "name": "Ying Ding",
+        "group": 5
+ 	}],
+        "links": [{
+        "source": 0,
+        "target": 1,
+        "value": 2
+    },
+    {
+        "source": 0,
+        "target": 71,
+        "value": 1
+    },
+    {
+        "source": 2,
+        "target": 3,
+        "value": 2
+    },
+    {
+        "source": 2,
+        "target": 68,
+        "value": 2
+    },
+    {
+        "source": 4,
+        "target": 3,
+        "value": 2
+    },
+    {
+        "source": 4,
+        "target": 78,
+        "value": 2
+    },
+    {
+        "source": 5,
+        "target": 6,
+        "value": 4
+    },
+    {
+        "source": 5,
+        "target": 83,
+        "value": 4
+    },
+    {
+        "source": 7,
+        "target": 6,
+        "value": 2
+    },
+    {
+        "source": 7,
+        "target": 27,
+        "value": 2
+    },
+    {
+        "source": 7,
+        "target": 91,
+        "value": 1
+    },
+    {
+        "source": 7,
+        "target": 112,
+        "value": 3
+    },
+    {
+        "source": 8,
+        "target": 6,
+        "value": 1
+    },
+    {
+        "source": 8,
+        "target": 97,
+        "value": 1
+    },
+    {
+        "source": 9,
+        "target": 6,
+        "value": 3
+    },
+    {
+        "source": 9,
+        "target": 97,
+        "value": 2
+    },
+    {
+        "source": 10,
+        "target": 11,
+        "value": 2
+    },
+    {
+        "source": 12,
+        "target": 11,
+        "value": 2
+    },
+    {
+        "source": 13,
+        "target": 11,
+        "value": 1
+    },
+    {
+        "source": 14,
+        "target": 15,
+        "value": 2
+    },
+    {
+        "source": 14,
+        "target": 85,
+        "value": 3
+    },
+    {
+        "source": 14,
+        "target": 106,
+        "value": 1
+    },
+    {
+        "source": 16,
+        "target": 15,
+        "value": 2
+    },
+    {
+        "source": 16,
+        "target": 99,
+        "value": 3
+    },
+    {
+        "source": 17,
+        "target": 18,
+        "value": 2
+    },
+    {
+        "source": 17,
+        "target": 110,
+        "value": 3
+    },
+    {
+        "source": 19,
+        "target": 20,
+        "value": 2
+    },
+    {
+        "source": 19,
+        "target": 80,
+        "value": 9
+    },
+    {
+        "source": 21,
+        "target": 20,
+        "value": 3
+    },
+    {
+        "source": 22,
+        "target": 20,
+        "value": 7
+    },
+    {
+        "source": 22,
+        "target": 103,
+        "value": 2
+    },
+    {
+        "source": 23,
+        "target": 24,
+        "value": 2
+    },
+    {
+        "source": 23,
+        "target": 72,
+        "value": 2
+    },
+    {
+        "source": 23,
+        "target": 93,
+        "value": 2
+    },
+    {
+        "source": 25,
+        "target": 24,
+        "value": 1
+    },
+    {
+        "source": 25,
+        "target": 81,
+        "value": 4
+    },
+    {
+        "source": 25,
+        "target": 104,
+        "value": 3
+    },
+    {
+        "source": 26,
+        "target": 27,
+        "value": 3
+    },
+    {
+        "source": 26,
+        "target": 90,
+        "value": 3
+    },
+    {
+        "source": 28,
+        "target": 27,
+        "value": 2
+    },
+    {
+        "source": 28,
+        "target": 94,
+        "value": 1
+    },
+    {
+        "source": 28,
+        "target": 110,
+        "value": 2
+    },
+    {
+        "source": 29,
+        "target": 27,
+        "value": 4
+    },
+    {
+        "source": 29,
+        "target": 91,
+        "value": 2
+    },
+    {
+        "source": 29,
+        "target": 93,
+        "value": 1
+    },
+    {
+        "source": 29,
+        "target": 94,
+        "value": 1
+    },
+    {
+        "source": 29,
+        "target": 110,
+        "value": 2
+    },
+    {
+        "source": 29,
+        "target": 111,
+        "value": 1
+    },
+    {
+        "source": 29,
+        "target": 112,
+        "value": 2
+    },
+    {
+        "source": 30,
+        "target": 27,
+        "value": 1
+    },
+    {
+        "source": 30,
+        "target": 74,
+        "value": 2
+    },
+    {
+        "source": 31,
+        "target": 27,
+        "value": 1
+    },
+    {
+        "source": 31,
+        "target": 94,
+        "value": 2
+    },
+    {
+        "source": 32,
+        "target": 27,
+        "value": 4
+    },
+    {
+        "source": 32,
+        "target": 90,
+        "value": 3
+    },
+    {
+        "source": 33,
+        "target": 27,
+        "value": 2
+    },
+    {
+        "source": 33,
+        "target": 90,
+        "value": 7
+    },
+    {
+        "source": 34,
+        "target": 27,
+        "value": 2
+    },
+    {
+        "source": 35,
+        "target": 36,
+        "value": 10
+    },
+    {
+        "source": 35,
+        "target": 88,
+        "value": 2
+    },
+    {
+        "source": 35,
+        "target": 95,
+        "value": 2
+    },
+    {
+        "source": 35,
+        "target": 96,
+        "value": 3
+    },
+    {
+        "source": 37,
+        "target": 36,
+        "value": 2
+    },
+    {
+        "source": 37,
+        "target": 77,
+        "value": 1
+    },
+    {
+        "source": 37,
+        "target": 81,
+        "value": 4
+    },
+    {
+        "source": 38,
+        "target": 36,
+        "value": 1
+    },
+    {
+        "source": 38,
+        "target": 88,
+        "value": 2
+    },
+    {
+        "source": 38,
+        "target": 96,
+        "value": 5
+    },
+    {
+        "source": 39,
+        "target": 40,
+        "value": 1
+    },
+    {
+        "source": 39,
+        "target": 117,
+        "value": 3
+    },
+    {
+        "source": 41,
+        "target": 42,
+        "value": 1
+    },
+    {
+        "source": 41,
+        "target": 107,
+        "value": 1
+    },
+    {
+        "source": 43,
+        "target": 42,
+        "value": 2
+    },
+    {
+        "source": 43,
+        "target": 116,
+        "value": 2
+    },
+    {
+        "source": 44,
+        "target": 42,
+        "value": 2
+    },
+    {
+        "source": 45,
+        "target": 42,
+        "value": 2
+    },
+    {
+        "source": 46,
+        "target": 47,
+        "value": 2
+    },
+    {
+        "source": 46,
+        "target": 114,
+        "value": 1
+    },
+    {
+        "source": 48,
+        "target": 49,
+        "value": 1
+    },
+    {
+        "source": 48,
+        "target": 113,
+        "value": 2
+    },
+    {
+        "source": 50,
+        "target": 51,
+        "value": 1
+    },
+    {
+        "source": 50,
+        "target": 108,
+        "value": 3
+    },
+    {
+        "source": 52,
+        "target": 53,
+        "value": 1
+    },
+    {
+        "source": 52,
+        "target": 106,
+        "value": 4
+    },
+    {
+        "source": 54,
+        "target": 53,
+        "value": 2
+    },
+    {
+        "source": 54,
+        "target": 76,
+        "value": 1
+    },
+    {
+        "source": 54,
+        "target": 86,
+        "value": 1
+    },
+    {
+        "source": 55,
+        "target": 53,
+        "value": 1
+    },
+    {
+        "source": 55,
+        "target": 106,
+        "value": 2
+    },
+    {
+        "source": 56,
+        "target": 53,
+        "value": 1
+    },
+    {
+        "source": 56,
+        "target": 76,
+        "value": 3
+    },
+    {
+        "source": 56,
+        "target": 79,
+        "value": 2
+    },
+    {
+        "source": 56,
+        "target": 95,
+        "value": 1
+    },
+    {
+        "source": 56,
+        "target": 98,
+        "value": 3
+    },
+    {
+        "source": 56,
+        "target": 100,
+        "value": 3
+    },
+    {
+        "source": 56,
+        "target": 118,
+        "value": 2
+    },
+    {
+        "source": 57,
+        "target": 58,
+        "value": 2
+    },
+    {
+        "source": 57,
+        "target": 83,
+        "value": 2
+    },
+    {
+        "source": 59,
+        "target": 58,
+        "value": 1
+    },
+    {
+        "source": 59,
+        "target": 115,
+        "value": 4
+    },
+    {
+        "source": 60,
+        "target": 58,
+        "value": 1
+    },
+    {
+        "source": 60,
+        "target": 106,
+        "value": 1
+    },
+    {
+        "source": 61,
+        "target": 58,
+        "value": 1
+    },
+    {
+        "source": 61,
+        "target": 87,
+        "value": 2
+    },
+    {
+        "source": 61,
+        "target": 89,
+        "value": 2
+    },
+    {
+        "source": 62,
+        "target": 58,
+        "value": 1
+    },
+    {
+        "source": 62,
+        "target": 117,
+        "value": 5
+    },
+    {
+        "source": 63,
+        "target": 58,
+        "value": 2
+    },
+    {
+        "source": 64,
+        "target": 58,
+        "value": 1
+    },
+    {
+        "source": 64,
+        "target": 92,
+        "value": 1
+    },
+    {
+        "source": 64,
+        "target": 103,
+        "value": 3
+    },
+    {
+        "source": 64,
+        "target": 115,
+        "value": 1
+    },
+    {
+        "source": 65,
+        "target": 58,
+        "value": 2
+    },
+    {
+        "source": 66,
+        "target": 58,
+        "value": 1
+    },
+    {
+        "source": 66,
+        "target": 107,
+        "value": 1
+    },
+    {
+        "source": 67,
+        "target": 58,
+        "value": 2
+    },
+    {
+        "source": 67,
+        "target": 83,
+        "value": 1
+    },
+    {
+        "source": 67,
+        "target": 99,
+        "value": 3
+    },
+    {
+        "source": 67,
+        "target": 109,
+        "value": 1
+    },
+    {
+        "source": 67,
+        "target": 117,
+        "value": 1
+    },
+    {
+        "source": 69,
+        "target": 70,
+        "value": 1
+    },
+    {
+        "source": 69,
+        "target": 99,
+        "value": 1
+    },
+    {
+        "source": 69,
+        "target": 106,
+        "value": 1
+    },
+    {
+        "source": 73,
+        "target": 72,
+        "value": 1
+    },
+    {
+        "source": 73,
+        "target": 93,
+        "value": 1
+    },
+    {
+        "source": 75,
+        "target": 74,
+        "value": 1
+    },
+    {
+        "source": 75,
+        "target": 79,
+        "value": 1
+    },
+    {
+        "source": 82,
+        "target": 81,
+        "value": 1
+    },
+    {
+        "source": 84,
+        "target": 83,
+        "value": 1
+    },
+    {
+        "source": 84,
+        "target": 99,
+        "value": 1
+    },
+    {
+        "source": 101,
+        "target": 102,
+        "value": 1
+    },
+    {
+        "source": 105,
+        "target": 104,
+        "value": 1
+        }]
+    }

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Field Museum Collections Database Visualization">
+    <meta name="author" content="cyberdh">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+
+    <title>EMuView</title>
+
+<!-- Bootstrap CSS -->
+<link href="css/bootstrap.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="css/custom.css" rel="stylesheet">
+
+<!-- D3 CSS inherited -->
+<link rel="stylesheet" href="css/style.css"></link>
+<link rel="stylesheet" href="css/jquery-ui.min.css" />
+
+<!-- External Fonts -->
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
+rel="stylesheet" type="text/css">
+
+<link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic'
+rel='stylesheet' type='text/css'>
+
+<link
+href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,
+700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+<!-- Navigation -->
+<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+    Menu
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.indiana.edu/~cyberdh/index.html">CyberDH Home</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.indiana.edu/~cyberdh/services-support.html">Services and Support</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.indiana.edu/~cyberdh/about.html">About</a></li>
+  </ul>
+</div>
+
+<!-- D3 Main content -->
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	<h2 align = "center">Field Museum Collections Database Visualization</h2>
+	<p><strong>Data is sampled from the activity logs of the China Hall collection (2008-2014) in the Museum's <a href="http://emuweb.fieldmuseum.org">EMu asset management system</a>. The dataset includes 1,818 separate physical objects from the database's catalog module, with a total of 19,178 separate changes captured (discounting automated updates) in the logs. For this visualization, the objects with the highest cumulative counts were selected, representing just over 10% of material in the China Hall collection</strong></p>
+			</div>
+	</div>
+</div>			
+	
+<hr>	
+	
+<div class="container-fluid">
+<div id="viz"></div>
+			
+				<!-- jQuery Version 1.11.3 -->
+				<script src="js/jquery-1.11.3.js"></script>
+	
+<!-- D3.js Code -->
+					<script src="js/jquery-ui.min.js"></script>
+					<script src="js/d3/d3.js"></script>
+					<script src="js/cfmnh-slider.js"></script>
+
+<div class="container-fluid">
+<div id="slider"></div>
+</div>	
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-10 col-lg-offset-1 col-md-10 col-lg-offset-1 col-sm-10 col-lg-offset-1 col-xs-10">
+	<div style="background-color:#FFFFE5; color:#A6A6A6; text-align:center;">
+		<p>After using the slider above, refresh page to return to dynamic activity.</p>
+	</div>
+</div>
+</div>					
+</div>					
+<hr>
+
+<!-- descriptive content -->	
+<div class="container-fluid">
+<div class="row">
+	<div id="div2" class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-sm-offset-1 col-xs-4" style="{float:left;}">
+<p><strong><a href="d3js.org/">D3.js</a> Dynamic Graph Visualization</strong></p> 
+<ul><li>Circles represent individual museum objects</li> 
+<li>Up and down (y-axis) movement tracks database activity on each object per month</li>
+<li>Growth of circles (x-axis) captures cumulative changes to objects</li> 
+<li>Vertical bands show the proportion of objects in the Museum's four key collection areas</li> 
+</ul>
+</div>
+
+	<div id="div1" class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+<wrapper><img src="img/plot3.png" class="img-responsive" align:"right" width:"956" height:"419" alt="Rplot duration"></wrapper>
+</div>	
+</div>
+</div>
+
+<hr>
+
+<div class="container">
+<div class="row">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<span align="center"><p><strong>Rights Statement</strong></p></span>			
+<p>Designed and created by Kartik Adur, Richard Higgins, Jingsha Luo, Joshua Quick, Wensi Wang. <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
+
+<p>The Field Museum asserts copyright on all data associated with this project. The data is available ONLY for not-for-profit scientific use with the stipulation that FMNH be clearly identified as the source of the data. FMNH requests copies or reprints of publications that are based on their collections.</p> 
+	</div>			
+   </div>					
+</div>
+
+<hr>
+
+<!-- Footer -->
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<ul class="list-inline text-center">
+					<li><a href="https://twitter.com/IUcyberDH"><span class="fa-stack fa-lg">
+					<i class="fa fa-circle fa-stack-2x"></i>
+					<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+					</span></a>
+					</li>
+
+					<li><a href="mailto:cyberdh@iu.edu"><span class="fa-stack fa-lg">
+					<i class="fa fa-circle fa-stack-2x"></i>
+					<i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+					</span></a>
+					</li>
+
+					<li><a href="https://github.com/rshiggin/IVMOOC2015-FMNH"><span class="fa-stack fa-lg">
+					<i class="fa fa-circle fa-stack-2x"></i>
+					<i class="fa fa-github fa-stack-1x fa-inverse"></i>
+					</span></a>
+					</li>
+				</ul>
+
+    <p class="copyright">code by <a href="http://getbootstrap.com">Bootstrap</a> | page by <a href="mailto:rshiggin@indiana.edu">Richard Higgins</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/></a> 2015</p> 
+    </div>
+  </div>
+</div>
+</footer>
+
+
+<!-- The MIT License (MIT) Copyright (c) 2014 / page by Richard Higgins/code by Bootstrap -->
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.js"></script>
+
+<!-- STATCOUNTER
+================================================== -->
+
+
+  </body>
+</html>

@@ -1,0 +1,1296 @@
+{
+    "nodes": [
+        {
+            "id": 52,
+            "name": "Alan Burdette",
+            "group": 3
+        },
+        {
+            "id": 104,
+            "name": "EVIA",
+            "group": 4
+        },
+        {
+            "id": 109,
+            "name": "Media Data Preservation Initiative",
+            "group": 5
+        },
+        {
+            "id": 80,
+            "name": "Archives of Traditional Music",
+            "group": 1
+        },
+        {
+            "id": 42,
+            "name": "Andrew Albrecht",
+            "group": 2
+        },
+        {
+            "id": 78,
+            "name": "Wells Library",
+            "group": 11
+        },
+        {
+            "id": 89,
+            "name": "Institute for Digital Arts and Humanities",
+            "group": 4
+        },
+        {
+            "id": 31,
+            "name": "AndyUhrich",
+            "group": 2
+        },
+        {
+            "id": 73,
+            "name": "MediaSchool",
+            "group": 3
+        },
+        {
+            "id": 110,
+            "name": "MovingImageArchive",
+            "group": 2
+        },
+        {
+            "id": 43,
+            "name": "AngelaCourtney",
+            "group": 2
+        },
+        {
+            "id": 118,
+            "name": "VictorianWomenWritersProject",
+            "group": 2
+        },
+        {
+            "id": 10,
+            "name": "ArthurLiou",
+            "group": 1
+        },
+        {
+            "id": 65,
+            "name": "FineArts",
+            "group": 3
+        },
+        {
+            "id": 27,
+            "name": "BernieFrischer",
+            "group": 4
+        },
+        {
+            "id": 71,
+            "name": "Informatics",
+            "group": 3
+        },
+        {
+            "id": 93,
+            "name": "VirtualWorldHeritageLaboratory",
+            "group": 2
+        },
+        {
+            "id": 100,
+            "name": "DigitalApplicationsinArchaeologyandCulturalHeritage",
+            "group": 2
+        },
+        {
+            "id": 101,
+            "name": "DigitalHadrian'sVilla",
+            "group": 2
+        },
+        {
+            "id": 28,
+            "name": "BethPlale",
+            "group": 4
+        },
+        {
+            "id": 85,
+            "name": "DatatoInsightCenter",
+            "group": 1
+        },
+        {
+            "id": 88,
+            "name": "HathiTrustResearchCenter",
+            "group": 3
+        },
+        {
+            "id": 91,
+            "name": "PervasiveTechnologyInstitute",
+            "group": 3
+        },
+        {
+            "id": 17,
+            "name": "BillNewman",
+            "group": 3
+        },
+        {
+            "id": 69,
+            "name": "History&PhilosophyofScience",
+            "group": 2
+        },
+        {
+            "id": 82,
+            "name": "CatapultCenter",
+            "group": 3
+        },
+        {
+            "id": 98,
+            "name": "ChymistryofIsaacNewton",
+            "group": 5
+        },
+        {
+            "id": 38,
+            "name": "BradWheeler",
+            "group": 2
+        },
+        {
+            "id": 77,
+            "name": "UITS",
+            "group": 4
+        },
+        {
+            "id": 44,
+            "name": "BrendaJohnson",
+            "group": 2
+        },
+        {
+            "id": 19,
+            "name": "CassidySugimoto",
+            "group": 2
+        },
+        {
+            "id": 70,
+            "name": "Information and LibraryScience",
+            "group": 9
+        },
+        {
+            "id": 95,
+            "name": "Cascades Islands or Streams?",
+            "group": 3
+        },
+        {
+            "id": 56,
+            "name": "ClaraHenderson",
+            "group": 3
+        },
+        {
+            "id": 122,
+            "name": "HASTAC",
+            "group": 3
+        },
+        {
+            "id": 18,
+            "name": "ColinAllen",
+            "group": 3
+        },
+        {
+            "id": 108,
+            "name": "IndianaPhilosophyOntology",
+            "group": 2
+        },
+        {
+            "id": 55,
+            "name": "DirkHerr-Hoyman",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "name": "DouglasParks",
+            "group": 2
+        },
+        {
+            "id": 63,
+            "name": "Anthropology",
+            "group": 2
+        },
+        {
+            "id": 79,
+            "name": "AmericanIndianStudiesResearchInstitute",
+            "group": 1
+        },
+        {
+            "id": 37,
+            "name": "EdwardCurtisIV",
+            "group": 2
+        },
+        {
+            "id": 76,
+            "name": "ReligiousStudies",
+            "group": 1
+        },
+        {
+            "id": 111,
+            "name": "MuslimAmericanIdentities",
+            "group": 1
+        },
+        {
+            "id": 4,
+            "name": "EllenMacKay",
+            "group": 3
+        },
+        {
+            "id": 64,
+            "name": "English",
+            "group": 5
+        },
+        {
+            "id": 127,
+            "name": "DigArts&Hum",
+            "group": 2
+        },
+        {
+            "id": 39,
+            "name": "EricWernert",
+            "group": 3
+        },
+        {
+            "id": 84,
+            "name": "CyberDH",
+            "group": 3
+        },
+        {
+            "id": 30,
+            "name": "ErikaDowell",
+            "group": 2
+        },
+        {
+            "id": 72,
+            "name": "LillyLibrary",
+            "group": 1
+        },
+        {
+            "id": 120,
+            "name": "Warof1812",
+            "group": 3
+        },
+        {
+            "id": 20,
+            "name": "GraceThomas",
+            "group": 3
+        },
+        {
+            "id": 99,
+            "name": "ComicReadershipArchive",
+            "group": 3
+        },
+        {
+            "id": 113,
+            "name": "Petrarchive",
+            "group": 3
+        },
+        {
+            "id": 5,
+            "name": "GrantSimpson",
+            "group": 4
+        },
+        {
+            "id": 96,
+            "name": "ComicBookMarkupLanguage",
+            "group": 2
+        },
+        {
+            "id": 115,
+            "name": "TEIBoilerplate",
+            "group": 3
+        },
+        {
+            "id": 35,
+            "name": "GuilianoDiBacco",
+            "group": 2
+        },
+        {
+            "id": 74,
+            "name": "Music",
+            "group": 1
+        },
+        {
+            "id": 117,
+            "name": "ThesaurusMusicarumLatinarum",
+            "group": 1
+        },
+        {
+            "id": 13,
+            "name": "H.WayneStorey",
+            "group": 2
+        },
+        {
+            "id": 67,
+            "name": "FrenchandItalian",
+            "group": 1
+        },
+        {
+            "id": 58,
+            "name": "JaimieMurdock",
+            "group": 1
+        },
+        {
+            "id": 11,
+            "name": "JasonJackson",
+            "group": 3
+        },
+        {
+            "id": 66,
+            "name": "FolkloreandEthnomusicology",
+            "group": 1
+        },
+        {
+            "id": 90,
+            "name": "MathersMuseumofWorldCulture",
+            "group": 1
+        },
+        {
+            "id": 14,
+            "name": "JenniferGuiliano",
+            "group": 2
+        },
+        {
+            "id": 68,
+            "name": "History",
+            "group": 3
+        },
+        {
+            "id": 87,
+            "name": "HumanitiesIntensiveLearningandTeachingInstitute",
+            "group": 1
+        },
+        {
+            "id": 21,
+            "name": "JohnWalsh",
+            "group": 10
+        },
+        {
+            "id": 114,
+            "name": "SwinburneProject",
+            "group": 1
+        },
+        {
+            "id": 123,
+            "name": "ADHOAbstracts",
+            "group": 2
+        },
+        {
+            "id": 45,
+            "name": "JonDunn",
+            "group": 3
+        },
+        {
+            "id": 92,
+            "name": "Variations",
+            "group": 1
+        },
+        {
+            "id": 94,
+            "name": "Avalon",
+            "group": 1
+        },
+        {
+            "id": 46,
+            "name": "JulieHardesty",
+            "group": 2
+        },
+        {
+            "id": 6,
+            "name": "JustinHodgson",
+            "group": 3
+        },
+        {
+            "id": 102,
+            "name": "DigitalRhetorics&DigitalHumanities",
+            "group": 2
+        },
+        {
+            "id": 126,
+            "name": "TheJUMPjournal",
+            "group": 1
+        },
+        {
+            "id": 15,
+            "name": "KalaniCraig",
+            "group": 1
+        },
+        {
+            "id": 22,
+            "name": "KatyBorner",
+            "group": 2
+        },
+        {
+            "id": 83,
+            "name": "CyberinfrastructureforNetworkScience",
+            "group": 2
+        },
+        {
+            "id": 16,
+            "name": "KonstantinDierks",
+            "group": 2
+        },
+        {
+            "id": 107,
+            "name": "MappingWorldHistory",
+            "group": 2
+        },
+        {
+            "id": 40,
+            "name": "LaurieAntolivic",
+            "group": 2
+        },
+        {
+            "id": 8,
+            "name": "MargaretDolinsky",
+            "group": 3
+        },
+        {
+            "id": 29,
+            "name": "MatthewBrennan",
+            "group": 3
+        },
+        {
+            "id": 47,
+            "name": "MeridithBeckSayre",
+            "group": 2
+        },
+        {
+            "id": 1,
+            "name": "MichaelMartin",
+            "group": 2
+        },
+        {
+            "id": 62,
+            "name": "AmericanStudies",
+            "group": 1
+        },
+        {
+            "id": 81,
+            "name": "BlackFilmArchive",
+            "group": 1
+        },
+        {
+            "id": 48,
+            "name": "MichelleDalmau",
+            "group": 8
+        },
+        {
+            "id": 97,
+            "name": "CharlesCushmanPhotographs",
+            "group": 1
+        },
+        {
+            "id": 128,
+            "name": "WrightAmericanFictionProject",
+            "group": 1
+        },
+        {
+            "id": 132,
+            "name": "DigitalProjectsConsulting",
+            "group": 2
+        },
+        {
+            "id": 49,
+            "name": "NickHomeda",
+            "group": 4
+        },
+        {
+            "id": 124,
+            "name": "DigitalInitiatives",
+            "group": 1
+        },
+        {
+            "id": 125,
+            "name": "OpenJournalSystem",
+            "group": 2
+        },
+        {
+            "id": 34,
+            "name": "NorbertHerber",
+            "group": 1
+        },
+        {
+            "id": 9,
+            "name": "PeterWilliams",
+            "group": 1
+        },
+        {
+            "id": 50,
+            "name": "RachaelStoeltje",
+            "group": 2
+        },
+        {
+            "id": 36,
+            "name": "RegaWood",
+            "group": 2
+        },
+        {
+            "id": 75,
+            "name": "Philosophy",
+            "group": 1
+        },
+        {
+            "id": 116,
+            "name": "RichardRufusProject",
+            "group": 1
+        },
+        {
+            "id": 23,
+            "name": "RichardHiggins",
+            "group": 6
+        },
+        {
+            "id": 12,
+            "name": "RuthStone",
+            "group": 1
+        },
+        {
+            "id": 7,
+            "name": "ScotBarnett",
+            "group": 2
+        },
+        {
+            "id": 54,
+            "name": "ScottWeingart",
+            "group": 1
+        },
+        {
+            "id": 60,
+            "name": "SheynaPekala",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "name": "StacieKing",
+            "group": 2
+        },
+        {
+            "id": 86,
+            "name": "GlennBlackLab",
+            "group": 1
+        },
+        {
+            "id": 24,
+            "name": "StasiaMilojevic",
+            "group": 2
+        },
+        {
+            "id": 41,
+            "name": "TassieGniady",
+            "group": 7
+        },
+        {
+            "id": 103,
+            "name": "EnglishBroadsideBalladArchive",
+            "group": 1
+        },
+        {
+            "id": 105,
+            "name": "FemTechNet",
+            "group": 1
+        },
+        {
+            "id": 121,
+            "name": "WikipediaEdit-a-Thons",
+            "group": 1
+        },
+        {
+            "id": 57,
+            "name": "VerlonStone",
+            "group": 1
+        },
+        {
+            "id": 106,
+            "name": "LiberianCollections",
+            "group": 1
+        },
+        {
+            "id": 26,
+            "name": "VincentMalic",
+            "group": 1
+        },
+        {
+            "id": 53,
+            "name": "WallyHooper",
+            "group": 2
+        },
+        {
+            "id": 51,
+            "name": "WillCowan",
+            "group": 5
+        },
+        {
+            "id": 112,
+            "name": "Oufinopo",
+            "group": 1
+        },
+        {
+            "id": 133,
+            "name": "Omeka",
+            "group": 1
+        },
+        {
+            "id": 33,
+            "name": "WillEmigh",
+            "group": 1
+        },
+        {
+            "id": 25,
+            "name": "YingDing",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 2
+        },
+        {
+            "source": 0,
+            "target": 71,
+            "value": 1
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 68,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 78,
+            "value": 2
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "value": 4
+        },
+        {
+            "source": 5,
+            "target": 83,
+            "value": 4
+        },
+        {
+            "source": 7,
+            "target": 6,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 7,
+            "target": 91,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 112,
+            "value": 3
+        },
+        {
+            "source": 8,
+            "target": 6,
+            "value": 1
+        },
+        {
+            "source": 8,
+            "target": 97,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 6,
+            "value": 3
+        },
+        {
+            "source": 9,
+            "target": 97,
+            "value": 2
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 12,
+            "target": 11,
+            "value": 2
+        },
+        {
+            "source": 13,
+            "target": 11,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 14,
+            "target": 85,
+            "value": 3
+        },
+        {
+            "source": 14,
+            "target": 106,
+            "value": 1
+        },
+        {
+            "source": 16,
+            "target": 15,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 99,
+            "value": 3
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "value": 2
+        },
+        {
+            "source": 17,
+            "target": 110,
+            "value": 3
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 2
+        },
+        {
+            "source": 19,
+            "target": 80,
+            "value": 9
+        },
+        {
+            "source": 21,
+            "target": 20,
+            "value": 3
+        },
+        {
+            "source": 22,
+            "target": 20,
+            "value": 7
+        },
+        {
+            "source": 22,
+            "target": 103,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 72,
+            "value": 2
+        },
+        {
+            "source": 23,
+            "target": 93,
+            "value": 2
+        },
+        {
+            "source": 25,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 81,
+            "value": 4
+        },
+        {
+            "source": 25,
+            "target": 104,
+            "value": 3
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "value": 3
+        },
+        {
+            "source": 26,
+            "target": 90,
+            "value": 3
+        },
+        {
+            "source": 28,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 28,
+            "target": 94,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 110,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 27,
+            "value": 4
+        },
+        {
+            "source": 29,
+            "target": 91,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 93,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 94,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 110,
+            "value": 2
+        },
+        {
+            "source": 29,
+            "target": 111,
+            "value": 1
+        },
+        {
+            "source": 29,
+            "target": 112,
+            "value": 2
+        },
+        {
+            "source": 30,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 30,
+            "target": 74,
+            "value": 2
+        },
+        {
+            "source": 31,
+            "target": 27,
+            "value": 1
+        },
+        {
+            "source": 31,
+            "target": 94,
+            "value": 2
+        },
+        {
+            "source": 32,
+            "target": 27,
+            "value": 4
+        },
+        {
+            "source": 32,
+            "target": 90,
+            "value": 3
+        },
+        {
+            "source": 33,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 33,
+            "target": 90,
+            "value": 7
+        },
+        {
+            "source": 34,
+            "target": 27,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 36,
+            "value": 10
+        },
+        {
+            "source": 35,
+            "target": 88,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 95,
+            "value": 2
+        },
+        {
+            "source": 35,
+            "target": 96,
+            "value": 3
+        },
+        {
+            "source": 37,
+            "target": 36,
+            "value": 2
+        },
+        {
+            "source": 37,
+            "target": 77,
+            "value": 1
+        },
+        {
+            "source": 37,
+            "target": 81,
+            "value": 4
+        },
+        {
+            "source": 38,
+            "target": 36,
+            "value": 1
+        },
+        {
+            "source": 38,
+            "target": 88,
+            "value": 2
+        },
+        {
+            "source": 38,
+            "target": 96,
+            "value": 5
+        },
+        {
+            "source": 39,
+            "target": 40,
+            "value": 1
+        },
+        {
+            "source": 39,
+            "target": 117,
+            "value": 3
+        },
+        {
+            "source": 41,
+            "target": 42,
+            "value": 1
+        },
+        {
+            "source": 41,
+            "target": 107,
+            "value": 1
+        },
+        {
+            "source": 43,
+            "target": 42,
+            "value": 2
+        },
+        {
+            "source": 43,
+            "target": 116,
+            "value": 2
+        },
+        {
+            "source": 44,
+            "target": 42,
+            "value": 2
+        },
+        {
+            "source": 45,
+            "target": 42,
+            "value": 2
+        },
+        {
+            "source": 46,
+            "target": 47,
+            "value": 2
+        },
+        {
+            "source": 46,
+            "target": 114,
+            "value": 1
+        },
+        {
+            "source": 48,
+            "target": 49,
+            "value": 1
+        },
+        {
+            "source": 48,
+            "target": 113,
+            "value": 2
+        },
+        {
+            "source": 50,
+            "target": 51,
+            "value": 1
+        },
+        {
+            "source": 50,
+            "target": 108,
+            "value": 3
+        },
+        {
+            "source": 52,
+            "target": 53,
+            "value": 1
+        },
+        {
+            "source": 52,
+            "target": 106,
+            "value": 4
+        },
+        {
+            "source": 54,
+            "target": 53,
+            "value": 2
+        },
+        {
+            "source": 54,
+            "target": 76,
+            "value": 1
+        },
+        {
+            "source": 54,
+            "target": 86,
+            "value": 1
+        },
+        {
+            "source": 55,
+            "target": 53,
+            "value": 1
+        },
+        {
+            "source": 55,
+            "target": 106,
+            "value": 2
+        },
+        {
+            "source": 56,
+            "target": 53,
+            "value": 1
+        },
+        {
+            "source": 56,
+            "target": 76,
+            "value": 3
+        },
+        {
+            "source": 56,
+            "target": 79,
+            "value": 2
+        },
+        {
+            "source": 56,
+            "target": 95,
+            "value": 1
+        },
+        {
+            "source": 56,
+            "target": 98,
+            "value": 3
+        },
+        {
+            "source": 56,
+            "target": 100,
+            "value": 3
+        },
+        {
+            "source": 56,
+            "target": 118,
+            "value": 2
+        },
+        {
+            "source": 57,
+            "target": 58,
+            "value": 2
+        },
+        {
+            "source": 57,
+            "target": 83,
+            "value": 2
+        },
+        {
+            "source": 59,
+            "target": 58,
+            "value": 1
+        },
+        {
+            "source": 59,
+            "target": 115,
+            "value": 4
+        },
+        {
+            "source": 60,
+            "target": 58,
+            "value": 1
+        },
+        {
+            "source": 60,
+            "target": 106,
+            "value": 1
+        },
+        {
+            "source": 61,
+            "target": 58,
+            "value": 1
+        },
+        {
+            "source": 61,
+            "target": 87,
+            "value": 2
+        },
+        {
+            "source": 61,
+            "target": 89,
+            "value": 2
+        },
+        {
+            "source": 62,
+            "target": 58,
+            "value": 1
+        },
+        {
+            "source": 62,
+            "target": 117,
+            "value": 5
+        },
+        {
+            "source": 63,
+            "target": 58,
+            "value": 2
+        },
+        {
+            "source": 64,
+            "target": 58,
+            "value": 1
+        },
+        {
+            "source": 64,
+            "target": 92,
+            "value": 1
+        },
+        {
+            "source": 64,
+            "target": 103,
+            "value": 3
+        },
+        {
+            "source": 64,
+            "target": 115,
+            "value": 1
+        },
+        {
+            "source": 65,
+            "target": 58,
+            "value": 2
+        },
+        {
+            "source": 66,
+            "target": 58,
+            "value": 1
+        },
+        {
+            "source": 66,
+            "target": 107,
+            "value": 1
+        },
+        {
+            "source": 67,
+            "target": 58,
+            "value": 2
+        },
+        {
+            "source": 67,
+            "target": 83,
+            "value": 1
+        },
+        {
+            "source": 67,
+            "target": 99,
+            "value": 3
+        },
+        {
+            "source": 67,
+            "target": 109,
+            "value": 1
+        },
+        {
+            "source": 67,
+            "target": 117,
+            "value": 1
+        },
+        {
+            "source": 69,
+            "target": 70,
+            "value": 1
+        },
+        {
+            "source": 69,
+            "target": 99,
+            "value": 1
+        },
+        {
+            "source": 69,
+            "target": 106,
+            "value": 1
+        },
+        {
+            "source": 73,
+            "target": 72,
+            "value": 1
+        },
+        {
+            "source": 73,
+            "target": 93,
+            "value": 1
+        },
+        {
+            "source": 75,
+            "target": 74,
+            "value": 1
+        },
+        {
+            "source": 75,
+            "target": 79,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 81,
+            "value": 1
+        },
+        {
+            "source": 84,
+            "target": 83,
+            "value": 1
+        },
+        {
+            "source": 84,
+            "target": 99,
+            "value": 1
+        },
+        {
+            "source": 101,
+            "target": 102,
+            "value": 1
+        },
+        {
+            "source": 105,
+            "target": 104,
+            "value": 1
+        }
+    ]
+}

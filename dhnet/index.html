@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <title>Digital Humanities at IU</title>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="styles/gexfjs.css" />
+		 <link rel="stylesheet" type="text/css" href="styles/bootstrap.css" />
+        <link rel="stylesheet" type="text/css" href="styles/jquery-ui-1.10.3.custom.min.css" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script type="text/javascript">
+        // Fallback in case JQuery CDN isn't available
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript type='text/javascript' src='js/jquery-1.11.3.min.js'%3E%3C/script%3E"));
+            }
+        </script>
+        <script type="text/javascript" src="js/jquery.mousewheel.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="js/gexfjs.js"></script>
+        <script type="text/javascript" src="config.js"></script>
+</head>
+
+<body>
+<div id="vizcontainer" style="width:100%; height:100%">
+        <div id="zonecentre" class="gradient">
+            <canvas id="carte" width="0" height="0"></canvas>
+            <ul id="ctlzoom">
+                <li>
+                    <a href="#" id="zoomPlusButton" title="S'approcher"> </a>
+                </li>
+                <li id="zoomSliderzone">
+                    <div id="zoomSlider"></div>
+                </li>
+                <li>
+                    <a href="#" id="zoomMinusButton" title="S'éloigner"> </a>
+                </li>
+                <li>
+                    <a href="#" id="lensButton"> </a>
+                </li>
+                <li>
+                    <a href="#" id="edgesButton"> </a>
+                </li>
+            </ul>
+        </div>
+    <div id="overviewzone" class="gradient">
+            <canvas id="overview" width="0" height="0"></canvas>
+        </div>
+		
+        <div id="leftcolumn">
+            <div id="unfold">
+                <a href="#" id="aUnfold" class="rightarrow"> </a>
+            </div>
+            <div id="leftcontent"></div>
+     </div>
+        <!-- Navigation -->  
+
+<div id="titlebar">
+    <form id="recherche">
+              <input id="searchinput" class="grey" placeholder="Search..." autocomplete="off" />
+              <input id="searchsubmit" type="submit"/>
+          </form> 
+		 <div class="clear"></div>      
+         <ul id="autocomplete">
+         </ul><div class="clear"></div>
+            <h3 align="center" style="block"><a href="http://www.indiana.edu/~cyberdh" target="_blank">Visualizing Digital Humanities at Indiana University</a></h3> 
+			<div class="clear"></div>      
+			   
+</div> 
+    </body>
+
+<!-- The MIT License (MIT) Copyright (c) 2015 / page by Richard Higgins / code by Bootstrap -->
+
+
+================================================== -->
+
+
+<!-- Metrics
+================================================== -->
+
+</html>

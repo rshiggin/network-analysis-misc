@@ -1,0 +1,7 @@
+.link {
+  stroke: #ccc;
+}
+
+.node text {
+  font: 10px sans-serif;
+}

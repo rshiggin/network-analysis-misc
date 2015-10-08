@@ -1,0 +1,51 @@
+svg {
+	display: block;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+text {
+	font: 24px "Georgia", serif;
+	color: black;
+}
+
+.x.axis path {
+	display: none;
+}
+.deptBars {
+	opacity: 0.1;
+}
+
+[class*="Anthropology"] {
+	fill: rgb(254,230,63);
+}
+[class*="Zoology"] {
+	fill: rgb(81,147,130);
+}
+[class*="Botany"] {
+	fill: rgb(207,80,74);
+}
+[class*="Geology"] {
+	fill: rgb(101,100,135);
+}
+[class*="#slider"] {
+	fill: rgb(101,100,135);
+}
+.label {
+	fill: #777;
+}
+.date.label {
+	font: 500 196px "Helvetica Neue";
+	fill: #ddd;
+}
+.date.label.active {
+	fill: #aaa;
+}
+.overlay {
+	fill: none;
+	pointer-events: all;
+	cursor: ew-resize;
+}
